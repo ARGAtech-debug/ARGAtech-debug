@@ -9,9 +9,16 @@ Por razones de crecimiento y desarrollo personal me he propuesto transicionar el
 
 Actualmente me siento contento y agradecido por todas las enseñanzas, de igual forma espero poder colaborar contigo en algún proyecto donde pueda poner en práctica mis nuevas habilidades y desempeñarme en esta nueva profesión con toda la entrega y cuidando siempre los altos estándares de calidad para promover la evolución continua de los producto y servicios en los que se trabaje.
 
-###Skills:
+## Skills:
 
-![Android_Studio](https://img.shields.io/badge/androidstudio-Android_Studio-3DDC84?style+logo+androidstudio)
+![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+
+![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 
 <!--
